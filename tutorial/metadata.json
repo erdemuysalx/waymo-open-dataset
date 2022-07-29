@@ -1,0 +1,50 @@
+{
+    "frame_count": 401417,
+    "obj_count": {
+        "2D": 9941810,
+        "3D": 12702039
+    },
+    "unique_obj_count": {
+        "2D": 212430,
+        "3D": 120580
+    },
+    "useful_obj_count": {
+        "2D": 2236985,
+        "3D": 2862756
+    },
+    "unique_useful_obj_count": {
+        "2D": 46597,
+        "3D": 23942
+    },
+    "class_count": {
+        "2D": {
+            "vehicle": 7704825,
+            "pedestrian": 2174073,
+            "cyclist": 62912,
+            "sign": 0
+        },
+        "3D": {
+            "vehicle": 6390808,
+            "pedestrian": 2795872,
+            "cyclist": 66884,
+            "sign": 3448475
+        }
+    },
+    "unique_class_count": {
+        "2D": {
+            "vehicle": 165833,
+            "pedestrian": 45267,
+            "cyclist": 1330,
+            "sign": 0
+        },
+        "3D": {
+            "vehicle": 63322,
+            "pedestrian": 23317,
+            "cyclist": 625,
+            "sign": 33316
+        }
+    },
+    "correspondence_2d3d_count": 212430,
+    "avg_tracking_time": 4.680040483924385,
+    "duration": "11:09:01.700000"
+}
